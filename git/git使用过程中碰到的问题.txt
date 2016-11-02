@@ -1,0 +1,2 @@
+1、git push origin master时报错error: src refspec master does not match any
+这个是因为本地没有需要提交的文件导致的。
